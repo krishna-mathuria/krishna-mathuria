@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **krishna-mathuria/krishna-mathuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=krishna-mathuria&color=green)
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=krishna-mathuria&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-mathuria&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=krishna-mathuria&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
